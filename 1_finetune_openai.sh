@@ -1,0 +1,1 @@
+python src_openai_finetune/main.py --finetune_clip=ViT-B/32

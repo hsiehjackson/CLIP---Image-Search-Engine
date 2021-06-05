@@ -1,0 +1,1 @@
+python src_openai_pretrain/main.py --text_length=77 --image_resolution=224 --pretrain_clip=ViT-B/32

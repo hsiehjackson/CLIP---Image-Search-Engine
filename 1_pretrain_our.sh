@@ -1,0 +1,1 @@
+python src_our/main.py --pretrain_text=bert-base-uncased --pretrain_image=resnet50 --dataset_path=dataset/yfcc100m
